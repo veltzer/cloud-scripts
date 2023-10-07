@@ -16,7 +16,7 @@ function _install_awscli() {
 		echo "you dont have the old 'awscli' python module. no need to uninstall it. good!"
 	fi
 	echo "following is the version of awscli (aws --version)..."
-	aws --version
+	"${HOME}/install/bin/aws" --version
 }
 
 _install_awscli
