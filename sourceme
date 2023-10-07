@@ -1,0 +1,2 @@
+export PATH=$PATH:$HOME/install/aws/bin
+complete -C aws_completer aws
