@@ -1,2 +1,2 @@
 #!/bin/bash -e
-sudo apt install python3 python-is-python3
+sudo apt install -y python3 python-is-python3
