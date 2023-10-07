@@ -19,4 +19,4 @@ function _install_awscli() {
 	aws --version
 }
 
-_install_awscli()
+_install_awscli
